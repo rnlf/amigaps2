@@ -22,7 +22,7 @@ Anyway, here's the pinout:
 
 | Function   | ATmega  | Arduino Nano v3 |
 | ---------- | ------- | --------------- |
-| PS/2 VCC   | VCC     | GND |
+| PS/2 VCC   | VCC     | VCC |
 | PS/2 GND   | GND     | GND |
 | PS/2 DATA  | PD3     | D3  |
 | PS/2 CLOCK | PD2     | D2  |
